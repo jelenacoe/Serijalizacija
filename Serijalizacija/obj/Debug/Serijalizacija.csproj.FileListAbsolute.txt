@@ -1,0 +1,7 @@
+C:\Users\Korisnik\source\repos\Serijalizacija\Serijalizacija\bin\Debug\Serijalizacija.exe.config
+C:\Users\Korisnik\source\repos\Serijalizacija\Serijalizacija\bin\Debug\Serijalizacija.exe
+C:\Users\Korisnik\source\repos\Serijalizacija\Serijalizacija\bin\Debug\Serijalizacija.pdb
+C:\Users\Korisnik\source\repos\Serijalizacija\Serijalizacija\obj\Debug\Serijalizacija.csprojAssemblyReference.cache
+C:\Users\Korisnik\source\repos\Serijalizacija\Serijalizacija\obj\Debug\Serijalizacija.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\Serijalizacija\Serijalizacija\obj\Debug\Serijalizacija.exe
+C:\Users\Korisnik\source\repos\Serijalizacija\Serijalizacija\obj\Debug\Serijalizacija.pdb
